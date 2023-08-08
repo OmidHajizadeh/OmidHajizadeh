@@ -1,1 +1,1 @@
-Enthusiastic front-end developer well-versed in HTML, CSS, and JavaScript, with a passion for working with diverse frameworks, including a particular fondness for the NextJS framework. Adaptable to different environments, I am committed to delivering projects with meticulous attention to detail and exceptional user experience. Collaborative and eager to learn from seniors while providing assistance to others. A collaborative team player who stays updated with industry trends and the team's requirements.
+
